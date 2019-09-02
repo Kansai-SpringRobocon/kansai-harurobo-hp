@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://nishi-yuki.github.io/kansai-harurobo-hp/"
 languageCode = "ja"
 title = "関西春ロボコン"
 theme = "hugo-universal-theme"
