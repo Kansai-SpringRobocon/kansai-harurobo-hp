@@ -1,3 +1,136 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja"
+title = "関西春ロボコン"
+theme = "hugo-universal-theme"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "ja"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    identifier="home"
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier="rule"
+    name = "Rule"
+    url  = "/rule/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "entry"
+    name = "Entry"
+    url  = "/entry/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "faq"
+    name = "Faq"
+    url  = "/faq/"
+    weight = 4
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url  = "/contact/"
+    weight = 5
+
+[[menu.main]]
+    identifier = "sponsorship"
+    name = "Sponsorship"
+    url = "/sponsorship/"
+    weight = 6
+
+[[menu.main]]
+    identifier = "history"
+    name = "History"
+    url = "/history/"
+    weight = 7
+
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "春ロボ運営"
+    defaultKeywords = ["春ロボ"]
+    # defaultDescription = "Site template made by devcows using hugo"
+
+    # Twitter
+    twitter = "kansai_robocon"
+    twitterImage = "img/twitter-default.png"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    # googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "default"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    # email = "your@email.com"
+    contact_form_ajax = false
+
+    about_us = "<p>関西圏を中心としたロボコンチームの技術向上、特に新入生の養成を目的に開催される大会の公式ホームページです。</p>"
+    # copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/harurobo_logo.png"
+    logo_small = "img/harurobo_logo.png"
+    address = """<p><strong>関西春ロボコン事務局</strong>
+        <br>
+      </p>
+      """
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = false
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = false
+
+[params.features]
+    enable = false
+
+[params.testimonials]
+    enable = false
+
+[params.see_more]
+    enable = false
+
+[params.clients]
+    enable = false
+
+[params.recent_posts]
+    enable = false
