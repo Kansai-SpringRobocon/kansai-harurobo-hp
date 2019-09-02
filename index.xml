@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on 関西春ロボコン</title>
+    <link>https://nishi-yuki.github.io/kansai-harurobo-hp/</link>
+    <description>Recent content in Home on 関西春ロボコン</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="https://nishi-yuki.github.io/kansai-harurobo-hp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://nishi-yuki.github.io/kansai-harurobo-hp/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nishi-yuki.github.io/kansai-harurobo-hp/contact/</guid>
+      <description>連絡先 エントリーシート、FAQの提出、または運営面に関する質問は以下のメールアドレスへお問い合わせください。</description>
+    </item>
+    
+    <item>
+      <title>ENTRY</title>
+      <link>https://nishi-yuki.github.io/kansai-harurobo-hp/entry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nishi-yuki.github.io/kansai-harurobo-hp/entry/</guid>
+      <description> エントリーチーム一覧    学校名（五十音順） チーム名 チーム名（フリガナ）     京都工芸繊維大学 LLLL.Dyna本() レッツダイナブック(セトマルポンチヲソエテ)   九州大学 KURT ケーユーアールティー   同志社大学 DRC ディーアールシー   奈良高専 良良良良良良良 ナラ   立命館大学 RRST アールアールエスティー    </description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://nishi-yuki.github.io/kansai-harurobo-hp/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nishi-yuki.github.io/kansai-harurobo-hp/faq/</guid>
+      <description>ルールに関する質問  質問は1回につき5問までとします。 質問文の冒頭に競技関係書類のどの項目に対応しているか、対応番号を書いてください。 FAQ募集は複数回行い、随時内容を公開していく予定です。  例
+質問1.「ルールブック 2-1-1」について 質問2.ＦＡＱ(5)について  本文に「学校名」、「チーム名」、「担当者」を明記して、CONTACTに記載されているメールアドレスへ送ってください。
+随時、質問は受け付けます。
+詳しくはFAQをお送りいただいたチームにメールでお伝えします。</description>
+    </item>
+    
+    <item>
+      <title>HISTORY</title>
+      <link>https://nishi-yuki.github.io/kansai-harurobo-hp/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nishi-yuki.github.io/kansai-harurobo-hp/history/</guid>
+      <description>ただいま工事中 もうしばらくお待ちください</description>
+    </item>
+    
+    <item>
+      <title>RULE</title>
+      <link>https://nishi-yuki.github.io/kansai-harurobo-hp/rule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nishi-yuki.github.io/kansai-harurobo-hp/rule/</guid>
+      <description> 関西春ロボコン2019　「Make The Tower」 青チームと赤チームに分かれて、各フィールドにあるタワーゾーン（TZ）で「Tower」の建設を行います。
+フィールド各所にボックスの供給エリアがあり、そこへ向けてロボットが通路を通り抜けていきます。
+ボックスはノーマルボックスとゴールデンボックスの2種類があります。まずTZ1にノーマルボックスを2個積み重ねます。その後TZ2にノーマルボックスを積み重ねその得点が120点以上になった場合、共通進入可能なコモンエリアへの進入が可能になります。
+コモンエリアにはゴールデンボックスとそれを置くためのボックスタワーがあります。ロボットがボックスタワーからゴールデンボックスを取得した後、全自動でゴールデンボックスをタワー上に2個積み上げた場合、「Tower」となり勝利となります。
+製作するロボットは1チーム1台、制限時間は最長3分間です。
+ルール  ルールブック2019 201KB Download ルール補足2019（フィールド材質・オブジェクト） 64 KB Download フィールド図面2019 384KB Download  </description>
+    </item>
+    
+    <item>
+      <title>SPONSORSHIP</title>
+      <link>https://nishi-yuki.github.io/kansai-harurobo-hp/sponsorship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nishi-yuki.github.io/kansai-harurobo-hp/sponsorship/</guid>
+      <description>スポンサーについて 2018年度大会では株式会社朱雀技研様にご協力していただきました。
+ご支援いただきありがとうございます。
+ご支援についてお問い合わせは、CONTACTに記載のメールアドレスからご連絡お願い申し上げます。
+※運営校がそれぞれ参加しているNHK学生ロボコンのスケジュールや運営メンバーの引継ぎのタイミング等によりすぐに対応できない場合がございます。可能であれば7月以降のご連絡をお願いいたします。</description>
+    </item>
+    
+  </channel>
+</rss>

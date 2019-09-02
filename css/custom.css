@@ -1,0 +1,26 @@
+body {
+    font-size: 18px;
+    font-size: 1.8rem;
+}
+
+#content {
+    margin: 30px auto;
+}
+
+#content .container {
+    max-width: 80rem;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.box-image-text .image {
+    min-height: 200px;
+    max-height: 200px;
+}
+  
+.box-simple {
+    min-height: 230px;
+}
+  
