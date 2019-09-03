@@ -9,6 +9,7 @@ body {
 
 #content .container {
     max-width: 80rem;
+    min-height: 74vh;
 }
 
 h3 {
