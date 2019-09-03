@@ -12,6 +12,8 @@ googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 
+canonifyURLs = true
+
 [menu]
 
 # Main menu
