@@ -13,3 +13,19 @@ keywords = ["entry","team"]
 |同志社大学        |DRC             |ディーアールシー|
 |奈良高専          |良良良良良良良 	|ナラ|
 |立命館大学        |RRST            |アールアールエスティー |
+
+<style type="text/css">
+    table th, table td {
+        padding : 20px 10px;
+    }
+    table th {
+        border-width: 2px 0px;
+        border-style: solid;
+        border-color: pink;
+    }
+    table td {
+        border-width: 1px 0px;
+        border-style: solid;
+        border-color: pink;
+    }
+</style>
