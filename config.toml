@@ -1,4 +1,4 @@
-baseURL = "https://nishi-yuki.github.io/kansai-harurobo-hp/"
+baseURL = "https://kansai-harurobo2020-website.github.io/kansai-harurobo-hp/"
 languageCode = "ja"
 title = "関西春ロボコン"
 theme = "hugo-universal-theme"
