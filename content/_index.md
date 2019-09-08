@@ -13,7 +13,8 @@ date: 2018-02-12T15:37:57+07:00
 この大会を開催、運営していくことで、関西圏からロボコンの活性化に貢献していきます。
 
 勿論、関西圏以外からの参加も大歓迎です！！！！
-
+<br>
+<br>
 ### 大会概要
 
 - 大会名称：関西春ロボコン2019
@@ -24,6 +25,12 @@ date: 2018-02-12T15:37:57+07:00
 
 大会当日スケジュール 58 KB
 [Download](https://drive.google.com/file/d/1cy_Gx91IZ4MvDmu3OjSM8rm0-bowZjih/view)
+<br>
+<br>
+
+### 公式Twitter
+
+<a class="twitter-timeline" data-lang="ja" data-width="433" data-height="501" data-theme="light" href="https://twitter.com/kansai_robocon?ref_src=twsrc%5Etfw">Tweets by kansai_robocon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### 実行委員会
 
