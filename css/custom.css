@@ -24,4 +24,11 @@ h3 {
 .box-simple {
     min-height: 230px;
 }
-  
+
+.navbar-default .navbar-nav > li.active a {
+    background-color: pink !important;
+}
+
+.navbar-default .navbar-nav > li a:hover {
+    background-color: rgb(253, 220, 224);
+}
