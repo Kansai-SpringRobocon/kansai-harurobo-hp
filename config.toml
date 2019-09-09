@@ -1,4 +1,4 @@
-baseURL = "https://www.関西春ロボコン.com/"
+baseURL = "https://関西春ロボコン.com/"
 languageCode = "ja"
 title = "関西春ロボコン"
 theme = "hugo-universal-theme"
