@@ -101,7 +101,7 @@ canonifyURLs = true
 
     logo = "img/harurobo_logo.png"
     logo_small = "img/harurobo_logo.png"
-    address = """<p><strong>関西春ロボコン事務局</strong>
+    address = """<p><strong>関西春ロボコン運営委員会</strong>
         <br>
       </p>
       """
