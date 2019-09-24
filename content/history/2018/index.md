@@ -30,9 +30,9 @@ title = "関西春ロボコン2018"
 
 ## ルール
 
-- ルールブック 230.92 KB [Download](http://xn--tck4d2b0a0029dol2bn0r.com/history/%e9%96%a2%e8%a5%bf%e6%98%a5%e3%83%ad%e3%83%9c%e3%82%b3%e3%83%b32018/#)
-- ルール補足（フィールド材質・オブジェクト） 125 KB [Download](http://xn--tck4d2b0a0029dol2bn0r.com/history/%e9%96%a2%e8%a5%bf%e6%98%a5%e3%83%ad%e3%83%9c%e3%82%b3%e3%83%b32018/#)
-- フィールド図面 362 KB [Download](http://xn--tck4d2b0a0029dol2bn0r.com/history/%e9%96%a2%e8%a5%bf%e6%98%a5%e3%83%ad%e3%83%9c%e3%82%b3%e3%83%b32018/#)
+- ルールブック 230.92 KB [Download](https://drive.google.com/open?id=0ByKgeNt04rIObDhfS3VQeGNGNVk)
+- ルール補足（フィールド材質・オブジェクト） 125 KB [Download](https://drive.google.com/open?id=0ByKgeNt04rIOOXBmRk14LWR4U2s)
+- フィールド図面 362 KB [Download](https://drive.google.com/open?id=0ByKgeNt04rIOZDVkRkR1SzJJTW8)
 
 
 ## ルール説明動画
@@ -41,8 +41,8 @@ title = "関西春ロボコン2018"
 
 ## FAQ
 
-- FAQ更新2017/11/24 0.00 KB [リンク切れ]
-- FAQ更新2018/1/7 4.00 KB   [リンク切れ]
+- FAQ更新2017/11/24 0.00 KB [Download](https://drive.google.com/open?id=1k4ASBXjNWO71TDa4z0WdVtsul5Tj_zFs)
+- FAQ更新2018/1/7 4.00 KB   [ダウンDownloadロード](https://drive.google.com/open?id=1AgPT1Z7LnfLqTNgUBc_FD4i15BOboQIf)
 
 
 ## 参加チーム
