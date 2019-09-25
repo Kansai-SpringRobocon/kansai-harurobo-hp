@@ -37,28 +37,22 @@ canonifyURLs = true
     weight = 3
 
 [[menu.main]]
-    identifier = "faq"
-    name = "Faq"
-    url  = "/faq/"
-    weight = 4
-
-[[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     identifier = "sponsorship"
     name = "Sponsorship"
     url = "/sponsorship/"
-    weight = 6
+    weight = 5
 
 [[menu.main]]
     identifier = "history"
     name = "History"
     url = "/history/"
-    weight = 7
+    weight = 6
 
 
 [params]
