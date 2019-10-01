@@ -11,7 +11,7 @@ keywords = ["entry","team"]
 
 https://kantouharurobo.com/haru/entry
 
-<!-- ## 今後の書類公開予定 --> -->
+<!-- ## 今後の書類公開予定 --> 
 
 <!-- ### エントリーチーム一覧 -->
 
