@@ -1,0 +1,27 @@
+language: go
+dist: bionic
+sudo: false
+
+env:
+  - HUGO_VERSION=0.58.3
+
+install: true
+
+before_script:
+  - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
+  - sudo dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
+
+script:
+  - hugo version
+  - hugo -v
+
+deploy:
+  provider: pages
+  local-dir: public
+  fqdn: xn--tck4d2b0a0029dol2bn0r.com
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  project-name: kansai-harurobo-hp
+  on:
+    branch: master
