@@ -1,5 +1,3 @@
-
-
 # kansai-harurobo-hp
 
 [![Build Status](https://travis-ci.org/Kansai-SpringRobocon/kansai-harurobo-hp.svg?branch=master)](https://travis-ci.org/Kansai-SpringRobocon/kansai-harurobo-hp)
@@ -72,7 +70,7 @@ hugo server -D
 
 #### 現在 (自動ビルドあり)
 
-編集内容をコミットし、Pushしてmasterブランチへのプルリクエストを発行する。自動ビルドに成功してマージすると勝手に本番環境にデプロイされる。
+編集内容をコミットし、Pushしてmasterブランチへのプルリクエストを発行する。自動ビルドに成功してマージすると自動的に本番環境にデプロイされる。
 
 #### 古い手順 (手動ビルド)
 
