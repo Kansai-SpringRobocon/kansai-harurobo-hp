@@ -42,7 +42,7 @@ title = "関西春ロボコン2018"
 ## FAQ
 
 - FAQ更新2017/11/24 0.00 KB [Download](https://drive.google.com/open?id=1k4ASBXjNWO71TDa4z0WdVtsul5Tj_zFs)
-- FAQ更新2018/1/7 4.00 KB   [ダウンDownloadロード](https://drive.google.com/open?id=1AgPT1Z7LnfLqTNgUBc_FD4i15BOboQIf)
+- FAQ更新2018/1/7 4.00 KB   [Download](https://drive.google.com/open?id=1AgPT1Z7LnfLqTNgUBc_FD4i15BOboQIf)
 
 
 ## 参加チーム
@@ -64,7 +64,7 @@ title = "関西春ロボコン2018"
 {{< figure src="team-robohan.jpg" width="65%" >}}
 <br>
 <br>
-  
+
 ## 試合結果
 
 ### 第1リーグ戦
@@ -96,7 +96,7 @@ title = "関西春ロボコン2018"
 - 1:42:00~1:47:20　第2リーグ戦2試合目
 - 1:56:30~2:01:40　第2リーグ戦3試合目
 - 2:24:20~2:34:20　表彰式・閉会式
-　
+
 
 　
 ## 総括
@@ -111,7 +111,7 @@ title = "関西春ロボコン2018"
 
 来年度の大会では、今年度よりも沢山のチームが参加されて大いに盛り上がることを楽しみにしています。ぜひ高専の方も参加を検討してみてください。
 
- 
+
 ## 謝辞
 
 本大会を開催するにあたって多くの方々にご協力していただきました。
