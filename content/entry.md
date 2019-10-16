@@ -2,9 +2,8 @@
 title = "ENTRY"
 description = "参加チーム"
 keywords = ["entry","team"]
-+++
 
-エントリーに必要な書類は春ロボコン統一大会HPにて9月中をめどに公開します．
+
 
 ## 応募要項
 統一大会HPにて公開しています．
