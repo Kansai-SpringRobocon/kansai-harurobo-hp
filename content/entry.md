@@ -2,7 +2,7 @@
 title = "ENTRY"
 description = "参加チーム"
 keywords = ["entry","team"]
-
++++
 
 
 ## 応募要項
