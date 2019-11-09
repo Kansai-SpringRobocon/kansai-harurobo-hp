@@ -22,7 +22,7 @@ https://kantouharurobo.com/haru/entry
 |関西|一次|10 / 24 19:07|sKyWIper|京都工芸繊維大学|
 |関西|一次|10 / 25 09:16|OPURCC|大阪府立大学|
 |関西|一次|10 / 25 11:37|AUT|愛知工科大学|
-|関西|二次|10 / 31 18:59|DRC|同志社大学|
+|関西|最終|10 / 31 18:59|DRC|同志社大学|
 
 
 <style type="text/css">
