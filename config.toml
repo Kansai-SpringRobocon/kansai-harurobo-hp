@@ -103,10 +103,11 @@ canonifyURLs = true
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
+
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = false
-
+    
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
@@ -114,19 +115,21 @@ canonifyURLs = true
     search = true
 
 [params.carousel]
-    enable = false
+    enable = true
 
 [params.features]
-    enable = false
+    enable = true
 
 [params.testimonials]
-    enable = false
+    enable = true
 
 [params.see_more]
     enable = false
 
 [params.clients]
-    enable = false
+    enable = true
+    title = "Our Sponsors"
+    subtitle = "a"
 
 [params.recent_posts]
-    enable = false
+    enable = true

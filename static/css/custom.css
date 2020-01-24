@@ -32,3 +32,12 @@ h3 {
 .navbar-default .navbar-nav > li a:hover {
     background-color: rgb(253, 220, 224);
 }
+
+.home-carousel {
+    position: relative;
+    background: url('../img/texture-bw.png') center center repeat;
+    background-size: cover;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+  }
