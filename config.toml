@@ -127,7 +127,7 @@ canonifyURLs = true
     enable = false
 
 [params.clients]
-    enable = true
+    enable = false
     title = "Our Sponsors"
     subtitle = "a"
 
