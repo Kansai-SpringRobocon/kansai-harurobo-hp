@@ -11,4 +11,3 @@ keywords = ["SPONSORSHIP","sponsor"]
 ご支援いただきありがとうございます。
 
 ご支援についてお問い合わせは、[CONTACT](/contact/)に記載のメールアドレスからご連絡お願い申し上げます。
-
