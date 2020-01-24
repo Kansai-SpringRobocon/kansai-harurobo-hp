@@ -127,9 +127,19 @@ canonifyURLs = true
     enable = false
 
 [params.clients]
-    enable = false
+    enable = true
     title = "Our Sponsors"
     subtitle = "a"
+
+[params.silver_sponsors]
+    enable = true
+    title = "Silver Sponsors"
+    subtitle = ""
+
+[params.bronze_sponsors]
+    enable = true
+    title = "Bronze Sponsors"
+    subtitle = ""
 
 [params.recent_posts]
     enable = true
