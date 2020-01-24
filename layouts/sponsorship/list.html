@@ -17,6 +17,7 @@
 
     {{ partial "breadcrumbs.html" . }}
 
+
     <div id="content">
 
       <div class="container">
@@ -32,18 +33,19 @@
           </div>
 
         </div>
-        <!-- /.row -->
+        <div class="row">
+
+          {{ partial "silver_sponsors.html" . }}
+          {{ partial "bronze_sponsors.html" . }}
 
       </div>
       <!-- /.container -->
-
     </div>
     <!-- /#content -->
-
-    {{ partial "clients.html" . }}
     
 
     {{ partial "footer.html" . }}
+
 
   </div>
   <!-- /#all -->
