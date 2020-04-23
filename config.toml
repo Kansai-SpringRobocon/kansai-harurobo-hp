@@ -136,10 +136,5 @@ canonifyURLs = true
     title = "Silver Sponsors"
     subtitle = ""
 
-[params.bronze_sponsors]
-    enable = true
-    title = "Bronze Sponsors"
-    subtitle = ""
-
 [params.recent_posts]
     enable = true
