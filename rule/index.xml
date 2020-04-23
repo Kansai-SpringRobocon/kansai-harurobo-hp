@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>RULE &amp; FAQ on 関西春ロボコン</title>
-    <link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/rule/</link>
-    <description>Recent content in RULE &amp; FAQ on 関西春ロボコン</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    
-	<atom:link href="https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/rule/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RULE &amp; FAQ on 関西春ロボコン</title><link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/rule/</link><description>Recent content in RULE &amp; FAQ on 関西春ロボコン</description><generator>Hugo -- gohugo.io</generator><language>ja</language><atom:link href="https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/rule/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

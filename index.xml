@@ -1,59 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on 関西春ロボコン</title>
-    <link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/</link>
-    <description>Recent content in Home on 関西春ロボコン</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
-    
-	<atom:link href="https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Contact</title>
-      <link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/contact/</guid>
-      <description>連絡先 春ロボコン関西大会に関する質問   
-お問い合わせには、下記の項目をご記入ください。
- お名前（漢字・フリガナ）
- メールアドレス（質問に対する回答の送信先）
- 質問内容
-  
-春ロボコン統一大会(関東大会)・競技ルールに関する質問 
-本大会の運営委員会に問い合わせてください．
-https://kantouharurobo.com/haru/contact</description>
-    </item>
-    
-    <item>
-      <title>ENTRY</title>
-      <link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/entry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/entry/</guid>
-      <description> エントリーは11/8 正午をもって締め切りました．
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on 関西春ロボコン</title><link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/</link><description>Recent content in Home on 関西春ロボコン</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/contact/</guid><description>連絡先 春ロボコン関西大会に関する質問 お問い合わせには、下記の項目をご記入ください。
+お名前（漢字・フリガナ） メールアドレス（質問に対する回答の送信先） 質問内容 春ロボコン統一大会(関東大会)・競技ルールに関する質問</description></item><item><title>ENTRY</title><link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/entry/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/entry/</guid><description>エントリーは11/8 正午をもって締め切りました．
 応募要項 統一大会HPにて公開しています．
 https://kantouharurobo.com/haru/entry
-エントリーチーム一覧    地域 応募枠 応募日時 チーム名 学校名     関西 一次 10 / 23 18:13 糸色走己 京都工芸繊維大学   関西 一次 10 / 24 19:07 sKyWIper 京都工芸繊維大学   関西 一次 10 / 25 09:16 OPURCC 大阪府立大学   関西 一次 10 / 25 11:37 AUT 愛知工科大学   関西 最終 10 / 31 18:59 DRC 同志社大学    table th, table td { padding : 20px 10px; } table th { border-width: 2px 0px; border-style: solid; border-color: pink; } table td { border-width: 1px 0px; border-style: solid; border-color: pink; }  </description>
-    </item>
-    
-    <item>
-      <title>関西春ロボコン2018</title>
-      <link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/history/2018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/history/2018/</guid>
-      <description>大会概要  大会名称：関西春ロボコン 競技課題：「The quoits to the Ringo!」 開催場所：大阪大学　創造工学センター4F 開催日程：2018年3月13日  詳細タイムテーブル予定は下記リンク参照
+エントリーチーム一覧 地域 応募枠 応募日時 チーム名 学校名 関西 一次 10 / 23 18:13 糸色走己 京都工芸繊維大学 関西 一次 10 / 24 19:07 sKyWIper 京都工芸繊維大学 関西 一次 10 / 25 09:16 OPURCC 大阪府立大学 関西 一次 10 / 25 11:37 AUT 愛知工科大学 関西 最終 10 / 31 18:59 DRC 同志社大学</description></item><item><title>関西春ロボコン2018</title><link>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/history/2018/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3.com/history/2018/</guid><description>大会概要 大会名称：関西春ロボコン 競技課題：「The quoits to the Ringo!」 開催場所：大阪大学　創造工学センター4F 開催日程：2018年3月13日 詳細タイムテーブル予定は下記リンク参照
 タイムテーブル2018 24KB Download
 関西春ロボコン2018　「The quoits to the Ringo!」 青チームと赤チームに分かれて、フィールド中央にある3×3計9本のポールへ向けて「輪投げ」を行います。
 フィールド各所にリングの供給エリアがあり、そこへ向けてロボットが通路を通り抜けていきます。
 リングはノーマルリングとゴールデンリングの2種類があります。ポールの縦または横、斜め一列にノーマルリングがかかった状態を「ビンゴ」と呼び、ビンゴを2つ以上達成して初めてゴールデンリングを投げることができます。ゴールデンリングが中央のポールにかかったとき「Ringo!」となり、Vゴールつまり勝利となります。
 製作するロボットは1チーム1台、制限時間は最長3分間です。
-ルール  ルールブック 230.92 KB Download ルール補足（フィールド材質・オブジェクト） 125 KB Download フィールド図面 362 KB Download  ルール説明動画   FAQ  FAQ更新2017/11/24 0.00 KB Download FAQ更新2018/1/7 4.00 KB Download  参加チーム 京都工芸繊維大学　チーム「林檎雨」   同志社大学　チーム「DRC」   大阪大学　チーム「Robohan」   試合結果 第1リーグ戦   第2リーグ戦</description>
-    </item>
-    
-  </channel>
-</rss>
+ルール ルールブック 230.92 KB Download ルール補足（フィールド材質・オブジェクト） 125 KB Download フィールド図面 362 KB Download ルール説明動画 FAQ FAQ更新2017/11/24 0.00 KB Download FAQ更新2018/1/7 4.00 KB Download 参加チーム 京都工芸繊維大学　チーム「林檎雨」 同志社大学　チーム「DRC」 大阪大学　チーム「Robohan」 試合結果 第1リーグ戦 第2リーグ戦 第1リーグ戦は大阪大学「Robohan」、第2リーグ戦は京都工芸繊維大学「林檎雨」が勝利しました。</description></item></channel></rss>
