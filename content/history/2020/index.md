@@ -42,7 +42,12 @@ https://kantouharurobo.com/haru/rulebook
 https://kantouharurobo.com/haru/contact -->
 
 ## 参加チーム
-
+### 京都工芸繊維大学 「糸色走己」
+### 京都工芸繊維大学 「sKyWIper」
+### 大阪府立大学 「OPURCC」	 
+### 愛知工科大学 「AUT」	    
+### 同志社大学 「DRC」
+    
 ## 大会結果
 
 ## 大会の様子
