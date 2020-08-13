@@ -7,13 +7,9 @@
 
     <div id="all">
 
-        <header>
+        {{ partial "top.html" . }}
 
-          {{ partial "top.html" . }}
-
-          {{ partial "nav.html" . }}
-
-        </header>
+        {{ partial "nav.html" . }}
 
         {{ partial "carousel.html" . }}
 
@@ -21,9 +17,11 @@
 
         {{ partial "testimonials.html" . }}
 
-        <!-- {{ partial "see_more.html" . }} -->
+        {{ partial "see_more.html" . }}
 
         {{ partial "recent_posts.html" . }}
+
+        {{ partial "clients.html" . }}
 
         {{ partial "footer.html" . }}
 
