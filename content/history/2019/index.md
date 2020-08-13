@@ -33,9 +33,12 @@ title = "関西春ロボコン2019"
 
 ## ルール
 
-- ルールブック2019 201KB [Download](https://drive.google.com/file/d/1O2bhHCj4uC85VCPxzDbB2vA6viPILXd7/view)
-- ルール補足2019（フィールド材質・オブジェクト） 64 KB [Download](https://drive.google.com/file/d/1TGirJhS4SrwIGnVrSErryiJxM7yDH4K0/view)
-- フィールド図面2019 384KB [Download](https://drive.google.com/file/d/1_NXk8UimQ1pDLscgggRpZR2mC3_1djAP/view)
+
+| 資料 | ダウンロード |
+| :---: | :--------------------------------: |
+|  ルールブック2019  |       [Download(201KB)](https://drive.google.com/file/d/1O2bhHCj4uC85VCPxzDbB2vA6viPILXd7/view)      |
+|  ルール補足2019（フィールド材質・オブジェクト）  |  [Download(64 KB)](https://drive.google.com/file/d/1TGirJhS4SrwIGnVrSErryiJxM7yDH4K0/view) |
+|  フィールド図面2019  |           [Download(384KB)](https://drive.google.com/file/d/1_NXk8UimQ1pDLscgggRpZR2mC3_1djAP/view)          |
 
 ## 参加チーム
 
