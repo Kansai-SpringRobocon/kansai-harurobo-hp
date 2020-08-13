@@ -41,3 +41,31 @@ h3 {
     -moz-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
   }
+
+  div.simple-table table {
+	width: 100%;
+	border-top: 1px solid #e2e2e2;
+	border-left: 1px solid #e2e2e2;
+	background: #ffffff;
+	margin-bottom:15px;
+  	margin-left: auto;
+  	margin-right: auto;
+     color:#000000;
+}
+
+div.simple-table table th{
+	border-right: 1px solid #e2e2e2;
+	border-bottom: 1px solid #e2e2e2;
+ 	padding:10px 0;
+  text-align: center;
+}
+div.simple-table table td {
+	font-size: 0.9em;
+	border-right: 1px solid #e2e2e2;
+	border-bottom: 1px solid #e2e2e2;
+  text-align: center;
+  padding:10px 0;
+}
+div.simple-table table th {
+	background-color: #f3f0f0;
+}

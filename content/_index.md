@@ -20,13 +20,15 @@ NHKロボコン大会に近い環境で経験を積むことにより、技術�
 <br>
 ### 大会概要(関西大会)
 
-
-- 大会名称：春ロボコン2020 関西大会
-- 競技課題：「Deliver materials!」
-- 開催場所：大阪府羽衣青少年センター 体育館
-- 開催日程：2020年3月14日 **！当初の予定から変更があります！**
-- 運営 : 関西春ロボコン運営委員会
-
+{{< mdtable class = "simple-table" >}}
+| 概要 |  |
+| :---: | :--------------------------------: |
+| 大会名称|春ロボコン2020 関西大会|
+| 競技課題|「Deliver materials!」|
+| 開催場所|大阪府羽衣青少年センター 体育館|
+| 開催日程|2020年3月14日 **！当初の予定から変更があります！**|
+| 運営 | 関西春ロボコン運営委員会|
+{{< /mdtable >}}
 
 <br>
 統一大会に関する情報はこちら  
@@ -38,7 +40,8 @@ https://kantouharurobo.com/haru/
 
 ### 関西大会公式Twitter
 
-<a class="twitter-timeline" data-lang="ja" data-width="433" data-height="501" data-theme="light" href="https://twitter.com/kansai_robocon?ref_src=twsrc%5Etfw">Tweets by kansai_robocon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-lang="ja" data-width="433" data-height="501" data-theme="light" href="https://twitter.com/kansai_robocon?ref_src=twsrc%5Etfw">Tweets by kansai_robocon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### 関西春ロボコン運営委員会
 
