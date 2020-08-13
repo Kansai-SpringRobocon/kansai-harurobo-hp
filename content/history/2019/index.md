@@ -33,9 +33,12 @@ title = "関西春ロボコン2019"
 
 ## ルール
 
-- ルールブック2019 201KB [Download](https://drive.google.com/file/d/1O2bhHCj4uC85VCPxzDbB2vA6viPILXd7/view)
-- ルール補足2019（フィールド材質・オブジェクト） 64 KB [Download](https://drive.google.com/file/d/1TGirJhS4SrwIGnVrSErryiJxM7yDH4K0/view)
-- フィールド図面2019 384KB [Download](https://drive.google.com/file/d/1_NXk8UimQ1pDLscgggRpZR2mC3_1djAP/view)
+
+| 資料 | ダウンロード |
+| :---: | :--------------------------------: |
+|  ルールブック2019  |       [Download(201KB)](https://drive.google.com/file/d/1O2bhHCj4uC85VCPxzDbB2vA6viPILXd7/view)      |
+|  ルール補足2019（フィールド材質・オブジェクト）  |  [Download(64 KB)](https://drive.google.com/file/d/1TGirJhS4SrwIGnVrSErryiJxM7yDH4K0/view) |
+|  フィールド図面2019  |           [Download(384KB)](https://drive.google.com/file/d/1_NXk8UimQ1pDLscgggRpZR2mC3_1djAP/view)          |
 
 ## 参加チーム
 
@@ -56,11 +59,11 @@ title = "関西春ロボコン2019"
 
 ## 大会結果
 
- | 順位  |         チーム名（学校名）         |
- | :---: | :--------------------------------: |
- |  1位  |      良良良良良良（奈良高専）      |
- |  2位  | LLLL.Dyna本() （京都工芸繊維大学） |
- |  3位  |          KURT（九州大学）          |
+| 順位  |         チーム名         |学校名|
+| :---: | :--------------------------------: |:---:|
+|  1位  |      良良良良良良      |奈良高専|
+|  2位  | LLLL.Dyna本()  |京都工芸繊維大学|
+|  3位  |          KURT          |九州大学|
 
 ## 大会の様子
 
@@ -79,7 +82,7 @@ title = "関西春ロボコン2019"
 関西圏の大学チームには運営についてのお手伝いをお願いすることがあるかもしれませんが、その時はお力添えして頂けると幸いです。
 
 来年も関西春ロボコンへのご支援・ご協力いただけます様、よろしくお願いいたします。
- 
+
 ## 謝辞
 
 本大会を開催するにあたって多くの方々にご協力していただきました。
