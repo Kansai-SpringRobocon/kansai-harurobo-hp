@@ -24,7 +24,7 @@ https://kantouharurobo.com/haru/ -->
 各チーム1台のロボットは「発射場エリア」から「移住船」を回収して「惑星ゾーン」へ配置し、
 そこへ十分な「輸送物資」を届け「惑星定住」の達成を目指します。
 
-<br>
+{{< figure src="rule2020_abst.png" width="65%" >}}
  
 ## ルール
 
@@ -47,7 +47,7 @@ https://kantouharurobo.com/haru/contact -->
 ### 大阪府立大学 「OPURCC」	 
 ### 愛知工科大学 「AUT」	    
 ### 同志社大学 「DRC」
-    
+
 ## 大会結果
 
 ## 大会の様子
