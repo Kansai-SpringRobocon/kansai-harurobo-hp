@@ -3,20 +3,15 @@ title = "関西春ロボコン2020"
 +++
 
 ## 大会概要
-- 大会名称：春ロボコン2020 関西大会
-- 競技課題：「Deliver materials!」
-- 開催場所：大阪府羽衣青少年センター 体育館
-- 開催日程：2020年3月14日 **！当初の予定から変更があります！**
-- 運営 : 関西春ロボコン運営委員会
 
-<!-- <br> -->
-<!-- 統一大会に関する情報はこちら  
-https://kantouharurobo.com/haru/ -->
-
-<!-- 大会当日スケジュール 58 KB -->
-<!-- [Download](https://drive.google.com/file/d/1cy_Gx91IZ4MvDmu3OjSM8rm0-bowZjih/view) -->
-<!-- <br> -->
-<!-- <br> -->
+{{< mdtable class = "simple-table" >}}
+| 概要 |  |
+| :---: | :--------------------------------: |
+| 大会名称|春ロボコン2020 関西大会|
+| 競技課題|Deliver materials!」|
+| 開催場所|大阪府羽衣青少年センター 体育館|
+| 開催予定日|2020年3月14日|
+{{< /mdtable >}}
 
 
 ## 関東春ロボコン2020 「Deliver materials!」   
@@ -34,12 +29,6 @@ https://kantouharurobo.com/haru/ -->
 https://kantouharurobo.com/haru/rulebook  
 
 <br>
-
-<!-- ### ルールに関する質問
-春ロボコン統一大会公式HPで質問を受け付けています．  
-質問を送る場合は注意事項をよく読んだ上で送ってください．
-
-https://kantouharurobo.com/haru/contact -->
 
 ## 参加チーム
 ### 京都工芸繊維大学 「糸色走己」
