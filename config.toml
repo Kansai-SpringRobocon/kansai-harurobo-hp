@@ -1,6 +1,6 @@
 baseURL = "https://関西春ロボコン.com/"
 languageCode = "ja"
-title = "関西春ロボコン"
+title = "春ロボコン　(関西大会)"
 theme = "hugo-universal-theme"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "ja"
