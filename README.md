@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Kansai-SpringRobocon/kansai-harurobo-hp.svg?branch=master)](https://travis-ci.org/Kansai-SpringRobocon/kansai-harurobo-hp)
 
-関西春ロボコンのホームページ
+春ロボコン(関西大会)のホームページ
 
 ## 利用しているもの
 - [Hugo](https://gohugo.io/)
