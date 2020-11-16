@@ -4,7 +4,6 @@ description = "参加チーム"
 keywords = ["entry","team"]
 +++
 
-
 ## 応募要項
 統一大会HPにて公開しています．
 

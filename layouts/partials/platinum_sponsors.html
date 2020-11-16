@@ -19,7 +19,7 @@
                         </p>
                         {{ if .url }}
                           <a href="{{ .url }}" target="_blank">
-                            <img class="img-responsive" src="{{ .image }}" alt="">
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
                           </a>
                         {{ else }}
                           <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
