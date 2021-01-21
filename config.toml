@@ -136,6 +136,11 @@ canonifyURLs = true
     title = "Platinum Sponsors"
     subtitle = ""
 
+[params.gold_sponsors]
+    enable = true
+    title = "Gold Sponsors"
+    subtitle = ""
+
 [params.silver_sponsors]
     enable = true
     title = "Silver Sponsors"
