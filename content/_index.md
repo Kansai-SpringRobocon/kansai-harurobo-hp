@@ -19,6 +19,7 @@ NHKロボコン大会に近い環境で経験を積むことにより、技術�
 
 <br>
 <br>
+
 ### 大会概要(関西大会)
 
 {{< mdtable class = "simple-table" >}}
@@ -30,6 +31,9 @@ NHKロボコン大会に近い環境で経験を積むことにより、技術�
 | 開催日程| 2021年3月11~12日 |
 | 運営 | 関西春ロボコン運営委員会|
 {{< /mdtable >}}
+
+### ストリーミング
+[![](http://img.youtube.com/vi/WAX_B68IzF4/0.jpg)](http://www.youtube.com/watch?v=WAX_B68IzF4 "春ロボコン関西大会")
 
 <br>
 統一大会に関する情報はこちら  
