@@ -52,8 +52,17 @@ https://kantouharurobo.com/haru/2021/
 {{< youtube id="__SM6BA3woo"  width="60%" >}}
 <!-- ## 総括 -->
 
-<!-- ## スポンサー
+## スポンサー
+### PLATINUM SPONSORS
+- 一志株式会社様
+- 株式会社ブイ・クルーズ様
+- Soi/Nishihonme様
+### GOLD SPONSORS
+- マルホ発條工業株式会社様
+### SILVER SPONSORS
 - 株式会社朱雀技研様
-- クラウドファンディング経由でご支援いただいた皆様
-    - ひりょうず様
-    - その他9名 -->
+### BRONZE SPONSORS
+- 株式会社Keigan様
+- 株式会社エーワンスプリング様
+- 浅田建設株式会社様
+- 株式会社ツリーベル化成様
