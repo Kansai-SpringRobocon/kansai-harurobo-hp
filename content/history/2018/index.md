@@ -34,9 +34,9 @@ title = "2018年度　関西春ロボコン2018"
 {{< mdtable class = "simple-table" >}}
 | 資料 | ダウンロード |
 | :---: | :--------------------------------: |
-| ルールブック | [Download(230.92 KB)](https://drive.google.com/open?id=0ByKgeNt04rIObDhfS3VQeGNGNVk)
-| ルール補足（フィールド材質・オブジェクト） | [Download(125 KB)](https://drive.google.com/open?id=0ByKgeNt04rIOOXBmRk14LWR4U2s)|
-| フィールド図面  |[Download(362 KB)](https://drive.google.com/open?id=0ByKgeNt04rIOZDVkRkR1SzJJTW8)|
+| ルールブック | [Download(230.92 KB)](https://drive.google.com/file/d/0ByKgeNt04rIObDhfS3VQeGNGNVk/view?usp=sharing&resourcekey=0-kvGl7__sqbvdjAWmkp6Rjg)
+| ルール補足（フィールド材質・オブジェクト） | [Download(125 KB)](https://drive.google.com/file/d/0ByKgeNt04rIOZDVkRkR1SzJJTW8/view?usp=sharing&resourcekey=0-A6X7ukXXWtcydaiMGB2PaA)|
+| フィールド図面  |[Download(362 KB)](https://drive.google.com/file/d/0ByKgeNt04rIOOXBmRk14LWR4U2s/view?usp=sharing&resourcekey=0-ovOKf_qDCrUY-t6MRurMkA)|
 {{< /mdtable >}}
 
 ## ルール説明動画
