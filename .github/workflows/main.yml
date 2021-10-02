@@ -25,4 +25,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          cname: xn--tck4d2b0a0029dol2bn0r.com/
+          # cname: xn--tck4d2b0a0029dol2bn0r.com/
+          publish_branch: gh-pages
