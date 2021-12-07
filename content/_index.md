@@ -40,10 +40,6 @@ https://kantouharurobo.com/haru/
 <br>
 <br>
 
-### 関西大会公式Twitter
-
-<a class="twitter-timeline" data-lang="ja" data-width="433" data-height="501" data-theme="light" href="https://twitter.com/kansai_robocon?ref_src=twsrc%5Etfw">Tweets by kansai_robocon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ### 関西春ロボコン運営委員会
 

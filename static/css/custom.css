@@ -7,10 +7,10 @@ body {
     margin: 30px auto;
 }
 
-#content .container {
+/* #content .container {
     max-width: 80rem;
     min-height: 74vh;
-}
+} */
 
 h3 {
     font-size: 24px;
@@ -20,7 +20,7 @@ h3 {
     min-height: 200px;
     max-height: 200px;
 }
-  
+
 .box-simple {
     min-height: 230px;
 }
