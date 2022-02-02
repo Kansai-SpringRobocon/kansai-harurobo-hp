@@ -54,6 +54,11 @@ canonifyURLs = true
     url = "/history/"
     weight = 6
 
+[[menu.main]]
+    identifier = "shop"
+    name = "SHOP"
+    url = "/shop/"
+    weight = 7
 
 [params]
     viewMorePostLink = "/blog/"
