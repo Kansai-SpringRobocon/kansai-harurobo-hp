@@ -156,5 +156,10 @@ canonifyURLs = true
     title = "Bronze Sponsors"
     subtitle = ""
 
+[params.kyoryoku]
+    enable = true
+    title = "協力"
+    subtitle = ""
+
 [params.recent_posts]
     enable = true
