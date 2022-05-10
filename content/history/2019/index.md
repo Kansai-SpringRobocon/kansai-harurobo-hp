@@ -1,5 +1,6 @@
 +++
 title = "第2回大会　関西春ロボコン2019"
+card_image =  "img/card/history/2019/index.png"
 +++
 
 ## 大会概要

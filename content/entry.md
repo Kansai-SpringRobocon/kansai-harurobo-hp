@@ -1,5 +1,6 @@
 +++
 title = "ENTRY"
+card_image =  "img/card/entry.png"
 description = "参加チーム"
 keywords = ["entry","team"]
 +++
