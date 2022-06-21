@@ -1,5 +1,6 @@
 +++
 title = "第1回大会　関西春ロボコン2018"
+card_image =  "img/card/history/2018/index.png"
 +++
 
 

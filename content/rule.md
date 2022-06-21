@@ -1,5 +1,6 @@
 +++
 title = "RULE & FAQ"
+card_image =  "img/card/rule.png"
 description = "競技のルールやフィールド図面"
 keywords = ["RULE","help","data"]
 +++

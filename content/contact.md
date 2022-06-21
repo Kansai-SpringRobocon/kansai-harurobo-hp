@@ -1,5 +1,6 @@
 +++
 title = "Contact"
+card_image =  "img/card/contact.png"
 banner = ""
 +++
 

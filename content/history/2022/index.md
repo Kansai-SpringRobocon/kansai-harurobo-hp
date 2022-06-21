@@ -1,5 +1,6 @@
 +++
 title = "第5回大会　春ロボコン2022 (関西大会)"
+card_image =  "img/card/history/2022/index.png"
 +++
 
 ## 大会概要
