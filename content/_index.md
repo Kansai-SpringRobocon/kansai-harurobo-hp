@@ -1,7 +1,8 @@
 +++
 title = "Home"
 card_image =  "img/card/_index.png"
-banner = ""
+description = "春ロボコン関西大会"
+keywords = ["HOME","robocon","harurobo"]
 +++
 
 ### 春ロボコンとは
