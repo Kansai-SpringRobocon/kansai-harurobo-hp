@@ -24,7 +24,7 @@ height = 400
 horizontal = 764
 
 #カード作成を無視するファイルリスト
-ignore_list = {'./content/_index.md'}
+ignore_list = {}
 
 # 文字数取得（全角2文字、半角1文字）
 # 参考：https://note.nkmk.me/python-unicodedata-east-asian-width-count/
