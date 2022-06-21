@@ -18,4 +18,8 @@ keywords = ["SHOP","report","booth"]
 | 商品内容 | 価格 | URL |
 | :---: | :---: | :---: |
 | 春ロボコン2020(関西大会)レポート|700円| [URL](https://kansairobocon.booth.pm/items/3538712)|
+| 春ロボコン2022(関西大会)レポート|700円| [URL](https://kansairobocon.booth.pm/items/3802228)|
 {{< /mdtable >}}
+
+2022年度の大会レポートについては印刷したものを700円＋送料にて販売しています．
+ご希望の場合は，ご連絡ください．
