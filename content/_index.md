@@ -45,8 +45,5 @@ https://kantouharurobo.com/haru/
 
 ### 関西春ロボコン運営委員会
 
-- [京都工芸繊維大学ForteFibre](https://www.fortefibre.net/)
-
-- [同志社大学ロボット研究会](http://drc.hatenablog.com/)
-
-- [大阪大学Robohan](http://www.robohan.net/)
+関西春ロボコン運営委員会は関西のロボコン団体の強化を目的として、[京都工芸繊維大学ForteFibre](https://www.fortefibre.net/)・[同志社大学ロボット研究会](http://drc.hatenablog.com/)・[大阪大学Robohan](http://www.robohan.net/)の3団体が中心となって2017年に設立されました。  
+現在は設立時の3団体とは別組織として、有志の学生・社会人を含めた団体として活動しています。
