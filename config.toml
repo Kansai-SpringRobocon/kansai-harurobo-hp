@@ -136,6 +136,11 @@ canonifyURLs = true
     title = "Our Sponsors"
     subtitle = "a"
 
+[params.diamond_sponsors]
+    enable = true
+    title = "Diamond Sponsors"
+    subtitle = ""
+
 [params.platinum_sponsors]
     enable = true
     title = "Platinum Sponsors"
@@ -152,7 +157,7 @@ canonifyURLs = true
     subtitle = ""
 
 [params.bronze_sponsors]
-    enable = true
+    enable = false
     title = "Bronze Sponsors"
     subtitle = ""
 
