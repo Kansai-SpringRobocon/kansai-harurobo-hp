@@ -5,18 +5,17 @@ description = "参加チーム"
 keywords = ["entry","team"]
 +++
 
-【New!】10/31 エントリーチーム一覧を公開しました！  
-10/09 春ロボコン2023 関西大会の応募要項を公開しました！
-
-## 応募要項
+2023年度大会は終了しました.  
+2024年度大会の応募要項公開をお待ち下さい．
+<!-- ## 応募要項
 
 URL : [春ロボコン2023 関西大会　応募要項](https://drive.google.com/file/d/10JoJHUhzV2VcJR8_ITYq7JYoNm9qKoRL/view?usp=sharing)
 
-関東大会に出場するチームは[関東大会HP](https://kantouharurobo.com/haru/)を参照の上応募してください
+関東大会に出場するチームは[関東大会HP](https://kantouharurobo.com/haru/)を参照の上応募してください -->
 
 
-### エントリーチーム一覧
-{{< mdtable class = "simple-table" >}}
+<!-- ### エントリーチーム一覧 -->
+<!-- {{< mdtable class = "simple-table" >}}
 | チーム名 | 読みガナ | 学校名 |
 | --- | --- | --- | --- |
 |Robohan | ロボハン | 大阪大学|
@@ -33,4 +32,4 @@ URL : [春ロボコン2023 関西大会　応募要項](https://drive.google.com
 |M3RC|エムキューブアールシー|三重大学|
 |Scramble Cube|スクランブルジュニア キュウブ |次世代ロボットエンジニア支援機構|
 |Scramble Fly|スクランブルジュニア フライ|次世代ロボットエンジニア支援機構|
-{{< /mdtable >}}
+{{< /mdtable >}} -->
