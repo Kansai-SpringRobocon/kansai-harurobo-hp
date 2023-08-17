@@ -1,17 +1,17 @@
 +++
 title = "第2回大会　関西春ロボコン2019"
-card_image =  "img/card\history\2019\index.png"
+card_image =  "img/card/history/2019/index.png"
 +++
 
 ## 大会概要
 
 {{< mdtable class = "simple-table" >}}
-| 概要 |  |
-| :---: | :--------------------------------: |
-| 大会名称|関西春ロボコン2019|
-| 競技課題|「Make The Tower」|
-| 開催場所|同志社大学京田辺キャンパス　ハローホール|
-| 開催日程|2019年3月13日|
+|   概要   |                                          |
+| :------: | :--------------------------------------: |
+| 大会名称 |            関西春ロボコン2019            |
+| 競技課題 |            「Make The Tower」            |
+| 開催場所 | 同志社大学京田辺キャンパス　ハローホール |
+| 開催日程 |              2019年3月13日               |
 {{< /mdtable >}}
 
 詳細タイムテーブル予定は下記リンク参照
@@ -33,11 +33,11 @@ card_image =  "img/card\history\2019\index.png"
 ## ルール
 
 {{< mdtable class = "simple-table" >}}
-| 資料 | ダウンロード |
-| :---: | :--------------------------------: |
-|  ルールブック2019|[Download(201KB)](https://drive.google.com/file/d/1O2bhHCj4uC85VCPxzDbB2vA6viPILXd7/view)      |
-|  ルール補足2019（フィールド材質・オブジェクト）|[Download(64 KB)](https://drive.google.com/file/d/1TGirJhS4SrwIGnVrSErryiJxM7yDH4K0/view)|
-|  フィールド図面2019|[Download(384KB)](https://drive.google.com/file/d/1_NXk8UimQ1pDLscgggRpZR2mC3_1djAP/view)|
+|                      資料                      |                                       ダウンロード                                        |
+| :--------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|                ルールブック2019                | [Download(201KB)](https://drive.google.com/file/d/1O2bhHCj4uC85VCPxzDbB2vA6viPILXd7/view) |
+| ルール補足2019（フィールド材質・オブジェクト） | [Download(64 KB)](https://drive.google.com/file/d/1TGirJhS4SrwIGnVrSErryiJxM7yDH4K0/view) |
+|               フィールド図面2019               | [Download(384KB)](https://drive.google.com/file/d/1_NXk8UimQ1pDLscgggRpZR2mC3_1djAP/view) |
 
 {{< /mdtable >}}
 
@@ -61,11 +61,11 @@ card_image =  "img/card\history\2019\index.png"
 ## 大会結果
 
 {{< mdtable class = "simple-table" >}}
-| 順位  |         チーム名         |学校名|
-| :---: | :--------------------------------: |:---:|
-|  1位  |      良良良良良良良      |奈良高専|
-|  2位  | LLLL.Dyna本()  |京都工芸繊維大学|
-|  3位  |          KURT          |九州大学|
+| 順位  |    チーム名    |      学校名      |
+| :---: | :------------: | :--------------: |
+|  1位  | 良良良良良良良 |     奈良高専     |
+|  2位  | LLLL.Dyna本()  | 京都工芸繊維大学 |
+|  3位  |      KURT      |     九州大学     |
 {{< /mdtable >}}
 
 ## 大会の様子

@@ -1,6 +1,6 @@
 +++
 title = "SHOP"
-card_image =  "img/card\shop.png"
+card_image =  "img/card/shop.png"
 description = "商品販売"
 keywords = ["SHOP","report","booth"]
 +++

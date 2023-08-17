@@ -1,6 +1,6 @@
 +++
 title = "Home"
-card_image =  "img/card\_index.png"
+card_image =  "img/card/_index.png"
 description = "春ロボコン関西大会"
 keywords = ["HOME","robocon","harurobo"]
 +++

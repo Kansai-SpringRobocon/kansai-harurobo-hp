@@ -1,17 +1,17 @@
 +++
 title = "第1回大会　関西春ロボコン2018"
-card_image =  "img/card\history\2018\index.png"
+card_image =  "img/card/history/2018/index.png"
 +++
 
 
 ## 大会概要
 {{< mdtable class = "simple-table" >}}
-| 概要 |  |
-| :---: | :--------------------------------: |
-| 大会名称|関西春ロボコン|
-| 競技課題|「The quoits to the Ringo!」|
-| 開催場所|大阪大学　創造工学センター4F|
-| 開催日程|2018年3月13日|
+|   概要   |                              |
+| :------: | :--------------------------: |
+| 大会名称 |        関西春ロボコン        |
+| 競技課題 | 「The quoits to the Ringo!」 |
+| 開催場所 | 大阪大学　創造工学センター4F |
+| 開催日程 |        2018年3月13日         |
 {{< /mdtable >}}
 
 詳細タイムテーブル予定は下記リンク参照
@@ -33,11 +33,11 @@ card_image =  "img/card\history\2018\index.png"
 
 ## ルール
 {{< mdtable class = "simple-table" >}}
-| 資料 | ダウンロード |
-| :---: | :--------------------------------: |
-| ルールブック | [Download(230.92 KB)](https://drive.google.com/file/d/0ByKgeNt04rIObDhfS3VQeGNGNVk/view?usp=sharing&resourcekey=0-kvGl7__sqbvdjAWmkp6Rjg)
-| ルール補足（フィールド材質・オブジェクト） | [Download(125 KB)](https://drive.google.com/file/d/0ByKgeNt04rIOZDVkRkR1SzJJTW8/view?usp=sharing&resourcekey=0-A6X7ukXXWtcydaiMGB2PaA)|
-| フィールド図面  |[Download(362 KB)](https://drive.google.com/file/d/0ByKgeNt04rIOOXBmRk14LWR4U2s/view?usp=sharing&resourcekey=0-ovOKf_qDCrUY-t6MRurMkA)|
+|                    資料                    |                                                               ダウンロード                                                                |
+| :----------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|                ルールブック                | [Download(230.92 KB)](https://drive.google.com/file/d/0ByKgeNt04rIObDhfS3VQeGNGNVk/view?usp=sharing&resourcekey=0-kvGl7__sqbvdjAWmkp6Rjg) |
+| ルール補足（フィールド材質・オブジェクト） |  [Download(125 KB)](https://drive.google.com/file/d/0ByKgeNt04rIOZDVkRkR1SzJJTW8/view?usp=sharing&resourcekey=0-A6X7ukXXWtcydaiMGB2PaA)   |
+|               フィールド図面               |  [Download(362 KB)](https://drive.google.com/file/d/0ByKgeNt04rIOOXBmRk14LWR4U2s/view?usp=sharing&resourcekey=0-ovOKf_qDCrUY-t6MRurMkA)   |
 {{< /mdtable >}}
 
 ## ルール説明動画
@@ -46,10 +46,10 @@ card_image =  "img/card\history\2018\index.png"
 
 ## FAQ
 {{< mdtable class = "simple-table" >}}
-| 更新 | ダウンロード |
-| :---: | :--------------------------------: |
-|2017/11/24 | [Download(0.00 KB)](https://drive.google.com/open?id=1k4ASBXjNWO71TDa4z0WdVtsul5Tj_zFs)|
-|2018/1/7  |  [Download(4.00 KB)](https://drive.google.com/open?id=1AgPT1Z7LnfLqTNgUBc_FD4i15BOboQIf)|
+|    更新    |                                      ダウンロード                                       |
+| :--------: | :-------------------------------------------------------------------------------------: |
+| 2017/11/24 | [Download(0.00 KB)](https://drive.google.com/open?id=1k4ASBXjNWO71TDa4z0WdVtsul5Tj_zFs) |
+|  2018/1/7  | [Download(4.00 KB)](https://drive.google.com/open?id=1AgPT1Z7LnfLqTNgUBc_FD4i15BOboQIf) |
 {{< /mdtable >}}
 
 ## 参加チーム
@@ -96,16 +96,16 @@ card_image =  "img/card\history\2018\index.png"
 ※途中から字幕が入ります。また一部音声が乱れるところがあります。
 
 {{< mdtable class = "simple-table" >}}
-| 時間  |         大会         |
-| :---: | :--------------------------------: |
-| 8:00~14:30　|開会式|
-| 33:30~40:30|第1リーグ戦1試合目|
-| 49:20~56:40|第1リーグ戦2試合目|
-| 1:02:00~1:07:10　|第1リーグ戦3試合目|
-| 1:29:00~1:34:10|第2リーグ戦1試合目|
-| 1:42:00~1:47:20|　第2リーグ戦2試合目|
-| 1:56:30~2:01:40|　第2リーグ戦3試合目|
-| 2:24:20~2:34:20|　表彰式・閉会式|
+|      時間       |        大会        |
+| :-------------: | :----------------: |
+|   8:00~14:30    |       開会式       |
+|   33:30~40:30   | 第1リーグ戦1試合目 |
+|   49:20~56:40   | 第1リーグ戦2試合目 |
+| 1:02:00~1:07:10 | 第1リーグ戦3試合目 |
+| 1:29:00~1:34:10 | 第2リーグ戦1試合目 |
+| 1:42:00~1:47:20 | 第2リーグ戦2試合目 |
+| 1:56:30~2:01:40 | 第2リーグ戦3試合目 |
+| 2:24:20~2:34:20 |   表彰式・閉会式   |
 {{< /mdtable >}}
 
 　

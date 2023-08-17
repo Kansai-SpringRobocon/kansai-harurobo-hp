@@ -1,6 +1,6 @@
 +++
 title = "第6回大会　春ロボコン2023 (関西大会)"
-card_image =  "img/card\history\2023\index.png"
+card_image =  "img/card/history/2023/index.png"
 +++
 
 ## 大会概要
