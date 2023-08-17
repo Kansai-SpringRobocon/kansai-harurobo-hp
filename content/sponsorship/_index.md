@@ -1,6 +1,6 @@
 +++
 title = "SPONSORSHIP"
-card_image =  "img/card/sponsorship.png"
+card_image =  "img/card\sponsorship\_index.png"
 description = "支援いただいた方々"
 keywords = ["SPONSORSHIP","sponsor"]
 +++

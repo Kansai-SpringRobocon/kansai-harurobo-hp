@@ -1,11 +1,11 @@
 +++
 title = "Contact"
-card_image =  "img/card/contact.png"
+card_image =  "img/card\contact.png"
 banner = ""
 +++
 
 ### 連絡先
-#### 春ロボコン関西大会に関する質問
+#### 春ロボコン(関西大会)に関する質問
 {{< figure src="/img/gmail.png" title="" >}}
 
 <br>
@@ -18,12 +18,13 @@ banner = ""
 
 <br>
 
-#### 春ロボコン全国大会(関東大会)・競技ルールに関する質問
+#### 競技ルールに関する質問
 
-<br>
+現在は受け付けておりません。
 
-関東大会の運営委員会に問い合わせてください．
+### 各種SNS
 
-<br>
+下記SNSにて随時情報発信を行っております。フォローよろしくお願いします。
 
-https://kantouharurobo.com/haru/contact
+- [Twitter(@kasai_robocon)](https://twitter.com/@kansai_robocon)
+- [YouTube(@kansai_robocon)](https://youtube.com/@kansai_robocon)
