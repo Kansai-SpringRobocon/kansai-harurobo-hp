@@ -1,6 +1,6 @@
 +++
 title = "第3回大会　春ロボコン2020 (関西大会)"
-card_image =  "img/card/history/2020/index.png"
+card_image =  "img/card\history\2020\index.png"
 +++
 ## はじめに
 **本大会はCOVID-19の影響により，中止になりました．**  

@@ -2,7 +2,7 @@ weight: 3
 title: "スポンサー募集中！"
 description: >
   <ul class="list-style-none">
-    <li><center>詳しくはこちら！</center></li>
-    <li><center><a href="/sponsorship/" color="0000"><font  color="#f7f7f7">スポンサーページ</font></a></center></li>
+    <li><center>詳しくはこちら⇒<a href="/sponsorship/" color="0000"><u><font  color="#f7f7f7">スポンサーページ</font></u></a> </center></li>
+    <li><center></center></li>
   </ul>
 image: "img/2019.jpg"

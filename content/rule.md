@@ -1,12 +1,12 @@
 +++
 title = "RULE & FAQ"
-card_image =  "img/card/rule.png"
+card_image =  "img/card\rule.png"
 description = "競技のルールやフィールド図面"
 keywords = ["RULE","help","data"]
 +++
 
-2023年度大会は終了しました.  
-2024年度大会のルール公開をお待ち下さい．
+2023年大会は終了しました.  
+2024年大会のルール公開をお待ち下さい．
 
 <!-- ### 2023年度　ルール
 

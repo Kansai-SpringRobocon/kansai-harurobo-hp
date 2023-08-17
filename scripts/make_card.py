@@ -23,11 +23,13 @@ import os
 height = 400
 horizontal = 764
 
-#カード作成を無視するファイルリスト
+# カード作成を無視するファイルリスト
 ignore_list = {}
 
 # 文字数取得（全角2文字、半角1文字）
 # 参考：https://note.nkmk.me/python-unicodedata-east-asian-width-count/
+
+
 def get_east_asian_width_count(text):
     count = 0
     for c in text:
@@ -38,6 +40,8 @@ def get_east_asian_width_count(text):
     return count
 
 # 記事タイトル取得
+
+
 def get_title(file_path):
     print("Open file...", file_path)
 
@@ -55,16 +59,20 @@ def get_title(file_path):
     return title[1]
 
 # ディレクトリ取得
+
+
 def get_dir(path):
     file_list = glob.glob(path, recursive=True)
     file_list = list(filter(lambda x: x not in ignore_list, file_list))
     return file_list
 
 # 文字未入れ状態の画像作成
+
+
 def make_base_image(logo_path, img_path):
     tmp = Image.new('RGB', (horizontal, height),
                     (0xFF, 0xFF, 0xFF))  # dummy for get text_size
-    print("output dir : ",img_path)
+    print("output dir : ", img_path)
     logo = Image.open(logo_path)
 
     save_img = tmp.copy()
@@ -73,18 +81,20 @@ def make_base_image(logo_path, img_path):
     save_img.save(img_path)
 
 # 文字入れ部分
+
+
 def make_image(font_path, img_path, text, x=0.0, y=0.0, font_size=32, font_color="black"):
     font = ImageFont.truetype(font_path, font_size)
     img = Image.open(img_path)
 
     img_d = ImageDraw.Draw(img)
-    text_size = img_d.textsize(text, font)  # テキストサイズの取得
 
-    img_d.text((x-(text_size[0]/2), y-(text_size[1]/2)),
-               text, fill=font_color, font=font)
+    img_d.text((x, y),
+               text, fill=font_color, font=font, anchor='mm')
     img.save(img_path)
 
-def add_card_info(file_path,card_path):
+
+def add_card_info(file_path, card_path):
     f = open(file_path, 'r', encoding="utf-8")  # File Open（文字コード指定）
     datalist = f.readlines()
     f.close()
@@ -106,43 +116,46 @@ def add_card_info(file_path,card_path):
             if start_formatter:
                 break
             else:
-                start_formatter=True
-    
+                start_formatter = True
+
     card_info = img_string + " " + '"img/'+card_path+'"\n'
     if img_info:
-        datalist[i]=card_info
+        datalist[i] = card_info
     else:
-        datalist.insert(2,card_info)
+        datalist.insert(2, card_info)
 
     f = open(file_path, 'w', encoding="utf-8")  # File Open（文字コード指定）
     f.writelines(datalist)
     f.close()
     return text
 
+
 file_list = get_dir('./content/**/*.md')
-# for 
+# for
 print(file_list)
 
 for i in file_list:
     title = get_title(i)
-    save_pic_filename=i[9:]
-    save_pic_filename=save_pic_filename[:-3]
-    #print(save_pic_filename)
+    save_pic_filename = i[9:]
+    save_pic_filename = save_pic_filename[:-3]
+    # print(save_pic_filename)
 
-    save_pic_dir='./static/img/card'+save_pic_filename+'.png'
+    save_pic_dir = './static/img/card'+save_pic_filename+'.png'
 
-    #print(save_pic_dir)
+    # print(save_pic_dir)
 
     font = "./static/mplus-2p-regular.ttf"
-    
+
     make_base_image("./static/img/logo.jpg", save_pic_dir)
-    make_image(font ,save_pic_dir, "春ロボコン(関西)",horizontal*0.75, height*0.4,42)
+    make_image(font, save_pic_dir, "春ロボコン(関西)",
+               horizontal*0.76, height*0.4, 42)
 
-    if get_east_asian_width_count(title)>24:
-        make_image(font ,save_pic_dir, title,horizontal*0.75, height*0.53,18)
+    if get_east_asian_width_count(title) > 24:
+        make_image(font, save_pic_dir, title, horizontal*0.76, height*0.53, 18)
     else:
-        make_image(font ,save_pic_dir, title,horizontal*0.75, height*0.53,34)
+        make_image(font, save_pic_dir, title, horizontal*0.76, height*0.53, 34)
 
-    make_image(font , save_pic_dir, "https://関西春ロボコン.com",horizontal*0.75, height*0.64,18)
-    add_card_info(i,save_pic_dir)
+    make_image(font, save_pic_dir, "https://関西春ロボコン.com",
+               horizontal*0.76, height*0.64, 18)
+    add_card_info(i, save_pic_dir)
     print()
