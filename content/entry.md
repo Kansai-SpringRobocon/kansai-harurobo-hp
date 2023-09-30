@@ -5,13 +5,15 @@ description = "参加チーム"
 keywords = ["entry","team"]
 +++
 
-2023年大会は終了しました.  
-2024年大会の応募要項公開をお待ち下さい．
-<!-- ## 応募要項
+<!-- 2023年大会は終了しました.  
+2024年大会の応募要項公開をお待ち下さい． -->
 
-URL : [春ロボコン2023 関西大会　応募要項](https://drive.google.com/file/d/10JoJHUhzV2VcJR8_ITYq7JYoNm9qKoRL/view?usp=sharing)
+関西春ロボコン2024 応募受付中！(10/22(日)18:00 必着)
+## 応募要項
 
-関東大会に出場するチームは[関東大会HP](https://kantouharurobo.com/haru/)を参照の上応募してください -->
+URL : [関西春ロボコン2024　応募要項](https://drive.google.com/file/d/1VG88H_kp5puaQSH57iWJIBTchu-74Rf2/view?usp=drive_link)
+
+関東春ロボコンに出場するチームは[関東大会HP](https://kantouharurobo.com/haru/)を参照の上応募してください
 
 
 <!-- ### エントリーチーム一覧 -->
