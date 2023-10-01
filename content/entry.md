@@ -11,7 +11,7 @@ keywords = ["entry","team"]
 関西春ロボコン2024 応募受付中！(10/22(日)18:00 必着)
 ## 応募要項
 
-URL : [関西春ロボコン2024　応募要項](https://drive.google.com/file/d/1VG88H_kp5puaQSH57iWJIBTchu-74Rf2/view?usp=drive_link)
+URL : [関西春ロボコン2024　応募要項](https://drive.google.com/file/d/1VG88H_kp5puaQSH57iWJIBTchu-74Rf2/view?usp=sharing)
 
 関東春ロボコンに出場するチームは[関東大会HP](https://kantouharurobo.com/haru/)を参照の上応募してください
 
