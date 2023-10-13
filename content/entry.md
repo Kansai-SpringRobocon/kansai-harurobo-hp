@@ -13,7 +13,7 @@ keywords = ["entry","team"]
 
 URL : [関西春ロボコン2024　応募要項](https://drive.google.com/file/d/1VG88H_kp5puaQSH57iWJIBTchu-74Rf2/view?usp=sharing)
 
-関東春ロボコンに出場するチームは[関東大会HP](https://kantouharurobo.com/haru/)を参照の上応募してください
+関東春ロボコンに出場するチームは[関東春ロボコンHP](https://kantouharurobo.com/haru/)を参照の上応募してください
 
 
 <!-- ### エントリーチーム一覧 -->
