@@ -9,11 +9,14 @@ keywords = ["RULE","help","data"]
 <!-- 2024年大会のルール公開をお待ち下さい． -->
 ### 競技課題：雛壇作り
 
-### ルールブック
-- [ルールブック](https://kantouharurobo.com/haru/2024/KantouHaruRobocon_2024_Rule_1.00.pdf)
-- [フィールド＆オブジェクト図](https://kantouharurobo.com/haru/2024/KantouHaruRobocon_2024_Field_1.00.pdf)
+### ルールブック：関西版は後日公開予定
 
-関東春ロボコン2024大会ルールをCCライセンスにて開催します。なお、該当ルールからの一部改訂を行う場合はこちらで公開します。
+関東春ロボコン2024大会ルールをCCライセンスにて開催します。
+
+なお、該当ルールからの一部改訂を行う場合があります。その場合はこちらにて公開します。
+
+#### 参考
+[関東春ロボコン運営委員会 - ルールブック](https://kantouharurobo.com/haru/rulebook)
 
 
 ### 競技ルールに関する質問
