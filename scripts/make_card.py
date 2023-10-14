@@ -118,6 +118,7 @@ def add_card_info(file_path, card_path):
             else:
                 start_formatter = True
 
+    card_path.replace('\\', '/')
     card_info = img_string + " " + '"img/'+card_path+'"\n'
     if img_info:
         datalist[i] = card_info
@@ -147,7 +148,7 @@ for i in file_list:
     font = "./static/mplus-2p-regular.ttf"
 
     make_base_image("./static/img/logo.jpg", save_pic_dir)
-    make_image(font, save_pic_dir, "春ロボコン(関西)",
+    make_image(font, save_pic_dir, "関西春ロボコン",
                horizontal*0.76, height*0.4, 42)
 
     if get_east_asian_width_count(title) > 24:
