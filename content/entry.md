@@ -8,7 +8,6 @@ keywords = ["entry","team"]
 <!-- 2023年大会は終了しました.  
 2024年大会の応募要項公開をお待ち下さい． -->
 
-関西春ロボコン2024 応募受付中！(10/22(日)18:00 必着)
 ## 応募要項
 
 URL : [関西春ロボコン2024　応募要項](https://drive.google.com/file/d/1VG88H_kp5puaQSH57iWJIBTchu-74Rf2/view?usp=sharing)
