@@ -14,6 +14,9 @@ URL : [関西春ロボコン2024　応募要項](https://drive.google.com/file/d
 
 関東春ロボコンに出場するチームは[関東春ロボコンHP](https://kantouharurobo.com/haru/)を参照の上応募してください
 
+## エントリーチーム一覧
+
+{{< figure src="/img/2024/2024entry.png" title="" height="1200px">}}
 
 <!-- ### エントリーチーム一覧 -->
 <!-- {{< mdtable class = "simple-table" >}}
