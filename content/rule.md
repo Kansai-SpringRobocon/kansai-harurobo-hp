@@ -11,7 +11,7 @@ keywords = ["RULE","help","data"]
 
 ### ルールブック
 
-- [関西春ロボコン2024 ルールブック](https://drive.google.com/file/d/1tZeoZ8PXXBS5DF7jmgVcfETH84SDbHRB/view?usp=sharing) （2023/11/12　更新）
+- [関西春ロボコン2024 ルールブック](https://drive.google.com/file/d/1tZeoZ8PXXBS5DF7jmgVcfETH84SDbHRB/view?usp=sharing) （2023/12/09　更新）
 - [関西春ロボコン2024 競技フィールド/オブジェクト図面](https://drive.google.com/file/d/1Hlgq6N7ZSYFdNSQkQKGNOv2yUUeiS1zb/view?usp=sharing) （2023/11/12 更新）
 
 CCライセンス(営利目的不可/改変可)にて公開されている「関東春ロボコン2024」ルールをもとに、
