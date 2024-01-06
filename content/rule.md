@@ -20,7 +20,7 @@ CCライセンス(営利目的不可/改変可)にて公開されている「関
 
 ### FAQ / 競技ルールに関する質問
 
-- [関西春ロボコン2024 FAQ回答](https://drive.google.com/file/d/1VkC_KVLrCaQsP9Air0-tjqz1JClW2yKG/view?usp=sharing) （2023/11/12 更新）
+- [関西春ロボコン2024 FAQ回答](https://drive.google.com/file/d/1amy29WVO_cHYdsE6ef-3iU3EpU-xcKT6/view?usp=sharing) （2024/01/06 更新）
 
 <!-- 現在は受け付けておりません。 -->
 
