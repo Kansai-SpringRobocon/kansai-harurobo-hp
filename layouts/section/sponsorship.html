@@ -34,23 +34,34 @@
         </div>
         <details open>
           <summary class="h3"> > 2024年 </summary>
-          <center><b> 現在募集中！</b></center>
           <div class="row">
+            {{/* {{ partial "diamond_sponsors.html" . }} */}}
+            {{ partial "platinum_sponsors.html" . }}
+            {{ partial "gold_sponsors.html" . }}
+            {{ partial "silver_sponsors.html" . }}
+            {{ partial "special_sponsors.html" . }}
+            {{/* {{ partial "kyoryoku.html" . }} */}}
             <!-- {{ partial "bronze_sponsors.html" . }} -->
             <!-- {{ partial "bronze_sponsors_2.html" . }}   -->
           </div>
         </details>
         <details>
           <summary class="h3"> > 2023年 </summary>
-          <div class="row">
-            {{ partial "diamond_sponsors.html" . }}
-            {{ partial "platinum_sponsors.html" . }}
-            {{ partial "gold_sponsors.html" . }}
-            {{ partial "silver_sponsors.html" . }}
-            {{ partial "kyoryoku.html" . }}
-            <!-- {{ partial "bronze_sponsors.html" . }} -->
-            <!-- {{ partial "bronze_sponsors_2.html" . }}   -->
-          </div>
+          <ul>
+            <li>DIAMOND SPONSORS</li>
+            <ul>
+              <li>船井電機株式会社</li>
+            </ul>
+            <li>GOLD SPONSORS</li>
+            <ul>
+              <li>メニックス株式会社</li>
+              <li>一般社団法人 次世代ロボットエンジニア支援機構(Scrambled)</li>
+            </ul>
+            <li>協力</li>
+            <ul>
+              <li>ロボティクス勉強会運営会</li>
+            </ul>
+          </ul>
         </details>
         <details>
           <summary class="h3"> > 2022年 </summary>
