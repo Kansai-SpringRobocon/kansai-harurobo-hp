@@ -69,16 +69,16 @@
   -ms-transform: translate3d(0,0,0);
 }
 
-.owl-wrapper-outer{
+.owl-wrapper-outer-sponsor{
     display:flex;
     justify-content: center;
 }
 
-.owl-wrapper,.owl-item{
+.owl-wrapper-sponsor,.owl-item-sponsor{
     max-width: 250px;
     min-width: 250px;
 }
 
-.owl-item{
+.owl-item-sponsor{
 	margin-bottom: 10%;
 }
