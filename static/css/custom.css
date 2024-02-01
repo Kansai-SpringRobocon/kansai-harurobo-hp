@@ -89,9 +89,14 @@ div.simple-table table th {
     filter: none;
 }
 
-.col-md-12 > .owl-carousel > .owl-wrapper-outer > .owl-wrapper > .owl-item{
-    max-width: 250px;
-    min-width: 250px;
+.col-md-12>.owl-carousel>.owl-wrapper-outer>.owl-wrapper {
+    max-width: 280px;
+    min-width: 280px;
+}
+
+.col-md-12>.owl-carousel>.owl-wrapper-outer>.owl-wrapper>.owl-item {
+    max-width: 280px;
+    min-width: 280px;
 }
 
 .under {
