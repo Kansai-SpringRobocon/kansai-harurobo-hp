@@ -2051,7 +2051,7 @@ fieldset[disabled] .btn-template-primary.active {
 #heading-breadcrumbs {
   background: url('../img/texture-bw.png') center center repeat;
   padding: 20px 0;
-  margin-bottom: 40px;
+  margin-bottom: 5px;
 }
 
 #heading-breadcrumbs.no-mb {
@@ -4036,7 +4036,7 @@ h3,
 }
 
 p {
-  margin: 0 0 10px;
+  margin: 0 20px 10px;
 }
 
 .lead {

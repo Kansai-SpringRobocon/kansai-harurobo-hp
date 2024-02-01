@@ -16,7 +16,9 @@ URL : [関西春ロボコン2024　応募要項](https://drive.google.com/file/d
 
 ## エントリーチーム一覧
 
-{{< figure src="/img/2024/2024entry.png" title="" height="1200px">}}
+<a href="../img/2024/2024entry.png">
+{{< figure src="/img/2024/2024entry.png" title="" width="100%">}}
+</a>
 
 <!-- ### エントリーチーム一覧 -->
 <!-- {{< mdtable class = "simple-table" >}}

@@ -49,16 +49,22 @@ url = "/sponsorship/"
 weight = 5
 
 [[menu.main]]
+identifier = "event"
+name = "Event"
+url = "/event/"
+weight = 6
+
+[[menu.main]]
 identifier = "history"
 name = "History"
 url = "/history/"
-weight = 6
+weight = 7
 
 [[menu.main]]
 identifier = "shop"
 name = "SHOP"
 url = "/shop/"
-weight = 7
+weight = 8
 
 [params]
 author = "春ロボ運営"

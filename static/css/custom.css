@@ -25,11 +25,11 @@ h3 {
     min-height: 230px;
 }
 
-.navbar-default .navbar-nav > li.active a {
+.navbar-default .navbar-nav>li.active a {
     background-color: pink !important;
 }
 
-.navbar-default .navbar-nav > li a:hover {
+.navbar-default .navbar-nav>li a:hover {
     background-color: rgb(253, 220, 224);
 }
 
@@ -40,34 +40,49 @@ h3 {
     -webkit-transition: all 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
-  }
-
-  div.simple-table table {
-	width: 100%;
-	border-top: 1px solid #e2e2e2;
-	border-left: 1px solid #e2e2e2;
-	background: #ffffff;
-	margin-bottom:15px;
-  	margin-left: auto;
-  	margin-right: auto;
-     color:#000000;
 }
 
-div.simple-table table th{
-	border-right: 1px solid #e2e2e2;
-	border-bottom: 1px solid #e2e2e2;
- 	padding:10px 0;
-  text-align: center;
+div.simple-table table {
+    width: 100%;
+    border-top: 1px solid #e2e2e2;
+    border-left: 1px solid #e2e2e2;
+    background: #ffffff;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #000000;
 }
-div.simple-table table td {
-	font-size: 0.9em;
-	border-right: 1px solid #e2e2e2;
-	border-bottom: 1px solid #e2e2e2;
-  text-align: center;
-  padding:10px 0;
-}
+
 div.simple-table table th {
-	background-color: #f3f0f0;
+    border-right: 1px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e2;
+    padding: 10px 0;
+    text-align: center;
+}
+
+div.simple-table table td {
+    font-size: 0.9em;
+    border-right: 1px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e2;
+    text-align: center;
+    padding: 10px 0;
+}
+
+div.simple-table table th {
+    background-color: #f3f0f0;
+}
+
+.top-info {
+    background-color: white;
+    color: #4d4c4c;
+    font-size: 130%;
+    font-weight: 1000;
+    padding: 1px;
+    margin-bottom: 7px;
+}
+
+.top-info mark {
+    background: linear-gradient(transparent 40%, #fbff00 80%);
 }
 
 .customers .item img {
@@ -77,4 +92,24 @@ div.simple-table table th {
 .col-md-12 > .owl-carousel > .owl-wrapper-outer > .owl-wrapper > .owl-item{
     max-width: 250px;
     min-width: 250px;
+}
+
+.under {
+    border-bottom: solid 3px #ffffff;
+}
+
+.box2 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    background: #FFF;
+    border: solid 3px #634b13;
+    /*線*/
+    border-radius: 10px;
+    /*角の丸み*/
+}
+
+.box2 p {
+    margin: 0;
+    padding: 0;
 }
