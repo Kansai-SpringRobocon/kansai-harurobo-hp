@@ -2,34 +2,40 @@
 {{ if .Site.Params.silver_sponsors.enable }}
 {{ if gt (len .Site.Data.silver_sponsors) 0 }}
 
-            <div class="col-md-12">
-                <div class="heading text-center">
-                    <h2>{{ .Site.Params.silver_sponsors.title | markdownify }}</h2>
-                </div>
+<div class="col-md-12">
+  <div class="heading text-center">
+    <h2>{{ .Site.Params.silver_sponsors.title | markdownify }}</h2>
+  </div>
 
-                <p class="lead">
-                  {{ .Site.Params.silver_sponsors.subtitle | markdownify }}
-                </p>
-                <ul class="owl-carousel customers">
-                  
-                    {{ range .Site.Data.silver_sponsors }}
-                    <li class="item" title="{{ .name }}">
-                        <p>
-                          {{ .name }}
-                        </p>
-                        {{ if .url }}
-                          <a href="{{ .url }}" target="_blank">
-                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                          </a>
-                        {{ else }}
-                          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                        {{ end }}
-                    </li>
-                    {{ end }}
-                </ul>
-                <!-- /.owl-carousel -->
-            </div>
-        
+  <p class="lead">
+    {{ .Site.Params.silver_sponsors.subtitle | markdownify }}
+  </p>
+  <ul class="owl-carousel customers">
+
+    {{ range .Site.Data.silver_sponsors }}
+    <li class="item" title="{{ .name }}">
+      <p>
+        {{ .name }}
+      </p>
+      {{ if .url }}
+      {{ if .width}}
+      <a href="{{ .url }}" target="_blank">
+        <img src="{{ .image }}" alt="{{ .name }}" width="{{.width}}" class="img-responsive" />
+      </a>
+      {{else}}
+      <a href="{{ .url }}" target="_blank">
+        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+      </a>
+      {{end}}
+      {{ else }}
+      <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
+  <!-- /.owl-carousel -->
+</div>
+
 {{ end }}
 {{ end }}
 {{ end }}
