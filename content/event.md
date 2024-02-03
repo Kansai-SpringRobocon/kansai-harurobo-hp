@@ -1,6 +1,6 @@
 +++
 title = "Event"
-card_image =  "img/card/rule.png"
+card_image =  "img/card/event.png"
 description = "大会関連イベント"
 keywords = ["Event"]
 +++
