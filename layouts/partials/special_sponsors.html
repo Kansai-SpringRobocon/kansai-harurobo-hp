@@ -10,9 +10,10 @@
   <p class="lead">
     {{ .Site.Params.special_sponsors.subtitle | markdownify }}
   </p>
-  <ul class="owl-carousel customers">
 
-    {{ range .Site.Data.special_sponsors }}
+
+  {{ range .Site.Data.special_sponsors }}
+  <ul class="owl-carousel customers">
     {{ if .image}}
     <li class="item" title="{{ .name }}">
       <p>
@@ -33,8 +34,9 @@
       </li>
     </a>
     {{ end }}
-    {{ end }}
   </ul>
+  {{ end }}
+
   <!-- /.owl-carousel -->
 </div>
 
