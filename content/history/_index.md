@@ -1,6 +1,6 @@
 +++
 title = "History"
-card_image =  "img/card/history/2023/index.png"
+card_image =  "img/card/history/_index.png"
 +++
 関西春ロボコン/春ロボコン(関西大会)は2018年より毎年開催されています。2023年大会にて6回目を迎えることができました。
 
