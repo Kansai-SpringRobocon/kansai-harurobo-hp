@@ -127,7 +127,7 @@ div.section {
   margin-bottom: 0;
   padding-bottom: 10px;
   vertical-align: middle;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 0.06em;
 }
 
