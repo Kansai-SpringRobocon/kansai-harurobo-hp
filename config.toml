@@ -162,7 +162,7 @@ subtitle = ""
 title = "Silver Sponsors"
 
 [params.bronze_sponsors]
-enable = false
+enable = true
 subtitle = ""
 title = "Bronze Sponsors"
 
