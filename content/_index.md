@@ -9,13 +9,19 @@ keywords = ["HOME","robocon","harurobo"]
 
 #### 予選リーグ
 
+<a href="../img/2024/2024_group1.png" target="_blank">
 {{<figure src="/img/2024/2024_group1.png" width="100%">}}
+</a>
 
+<a href="../img/2024/2024_group2.png" target="_blank">
 {{<figure src="/img/2024/2024_group2.png" width="100%">}}
+</a>
 
 #### 決勝トーナメント
 
+<a href="../img/2024/2024_tournament.png" target="_blank">
 {{<figure src="/img/2024/2024_tournament.png" width="100%">}}
+</a>
 
 ### 関西春ロボコンとは
 関西春ロボコンはNHK学生ロボコン・高専ロボコン(以下NHKロボコン)出場予定校の**新人チーム向けのロボット競技会**です。
