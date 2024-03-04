@@ -16,12 +16,12 @@ URL : [関西春ロボコン2024　応募要項](https://drive.google.com/file/d
 
 ## エントリーチーム一覧
 
-<a href="../img/2024/2024entry.png">
-{{< figure src="/img/2024/2024entry.png" title="" width="100%">}}
+<a href="../img/2024/2024entry.png" target="_blank">
+{{<figure src="/img/2024/2024entry.png" title="" width="100%">}}
 </a>
 
 <!-- ### エントリーチーム一覧 -->
-<!-- {{< mdtable class = "simple-table" >}}
+<!-- {{<mdtable class = "simple-table">}}
 | チーム名 | 読みガナ | 学校名 |
 | -------- | -------- | ------ ||
 | Robohan           | ロボハン                       | 大阪大学                         |
@@ -38,4 +38,4 @@ URL : [関西春ロボコン2024　応募要項](https://drive.google.com/file/d
 | M3RC              | エムキューブアールシー         | 三重大学                         |
 | Scramble Cube     | スクランブルジュニア キュウブ  | 次世代ロボットエンジニア支援機構 |
 | Scramble Fly      | スクランブルジュニア フライ    | 次世代ロボットエンジニア支援機構 |
-{{< /mdtable >}} -->
+{{</mdtable>}} -->
