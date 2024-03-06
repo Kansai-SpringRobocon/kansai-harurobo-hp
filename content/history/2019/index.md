@@ -5,20 +5,22 @@ card_image =  "img/card/history/2019/index.png"
 
 ## 大会概要
 
-{{< mdtable class = "simple-table" >}}
-|   概要   |                                          |
-| :------: | :--------------------------------------: |
-| 大会名称 |            関西春ロボコン2019            |
-| 競技課題 |            「Make The Tower」            |
-| 開催場所 | 同志社大学京田辺キャンパス　ハローホール |
-| 開催日程 |              2019年3月13日               |
-{{< /mdtable >}}
+{{<mdtable class="simple-table">}}
+
+| 概要 |  |
+| :---: | :---: |
+| 大会名称 | 関西春ロボコン2019 |
+| 競技課題 | Make The Tower |
+| 開催場所 | 同志社大学京田辺キャンパス ハローホール |
+| 開催日程 | 2019年3月13日 |
+
+{{</mdtable>}}
 
 詳細タイムテーブル予定は下記リンク参照
 
 タイムテーブル[Download](https://drive.google.com/file/d/1cy_Gx91IZ4MvDmu3OjSM8rm0-bowZjih/view)
 
-## 関西春ロボコン2019　「Make The Tower」
+## 関西春ロボコン2019 「Make The Tower」
 
 青チームと赤チームに分かれて、各フィールドにあるタワーゾーン（TZ）で「Tower」の建設を行います。
 
@@ -32,49 +34,57 @@ card_image =  "img/card/history/2019/index.png"
 
 ## ルール
 
-{{< mdtable class = "simple-table" >}}
-|                      資料                      |                                       ダウンロード                                        |
-| :--------------------------------------------: | :---------------------------------------------------------------------------------------: |
-|                ルールブック2019                | [Download(201KB)](https://drive.google.com/file/d/1O2bhHCj4uC85VCPxzDbB2vA6viPILXd7/view) |
-| ルール補足2019（フィールド材質・オブジェクト） | [Download(64 KB)](https://drive.google.com/file/d/1TGirJhS4SrwIGnVrSErryiJxM7yDH4K0/view) |
-|               フィールド図面2019               | [Download(384KB)](https://drive.google.com/file/d/1_NXk8UimQ1pDLscgggRpZR2mC3_1djAP/view) |
+{{<mdtable class="simple-table">}}
 
-{{< /mdtable >}}
+| 資料 | ダウンロード |
+| :---: | :---: |
+| ルールブック | [Download(201 KB)](https://drive.google.com/file/d/1O2bhHCj4uC85VCPxzDbB2vA6viPILXd7/view) |
+| ルール補足(フィールド材質・オブジェクト) | [Download(64 KB)](https://drive.google.com/file/d/1TGirJhS4SrwIGnVrSErryiJxM7yDH4K0/view) |
+| フィールド図面 | [Download(384KB)](https://drive.google.com/file/d/1_NXk8UimQ1pDLscgggRpZR2mC3_1djAP/view) |
+
+{{</mdtable>}}
 
 ## 参加チーム
 
-### 京都工芸繊維大学 　チーム「LLLL.Dyna本() 」
-{{< figure src="KIT.jpg" width="65%" >}}
+### 京都工芸繊維大学 チーム「LLLL.Dyna本() 」
 
-### 九州大学 　チーム「KURT」
-{{< figure src="KURT.jpg" width="65%" >}}
+{{<figure src="KIT.jpg" width="65%">}}
 
-### 同志社大学 　チーム「DRC」
-{{< figure src="DRC.jpg" width="65%" >}}
+### 九州大学 チーム「KURT」
 
-### 奈良高専 　チーム「良良良良良良良」
-{{< figure src="NITNC.jpg" width="65%" >}}
+{{<figure src="KURT.jpg" width="65%">}}
 
-### 立命館大学 　チーム「RRST」
-{{< figure src="RRST.jpg" width="65%" >}}
+### 同志社大学 チーム「DRC」
+
+{{<figure src="DRC.jpg" width="65%">}}
+
+### 奈良高専 チーム「良良良良良良良」
+
+{{<figure src="NITNC.jpg" width="65%">}}
+
+### 立命館大学 チーム「RRST」
+
+{{<figure src="RRST.jpg" width="65%">}}
 
 ## 大会結果
 
-{{< mdtable class = "simple-table" >}}
-| 順位  |    チーム名    |      学校名      |
-| :---: | :------------: | :--------------: |
-|  1位  | 良良良良良良良 |     奈良高専     |
-|  2位  | LLLL.Dyna本()  | 京都工芸繊維大学 |
-|  3位  |      KURT      |     九州大学     |
-{{< /mdtable >}}
+{{<mdtable class="simple-table">}}
+
+| 順位 | チーム名 | 学校名 |
+| :---: | :---: | :---: |
+|  1位  | 良良良良良良良 | 奈良高専 |
+|  2位  | LLLL.Dyna本() | 京都工芸繊維大学 |
+|  3位  | KURT | 九州大学 |
+
+{{</mdtable>}}
 
 ## 大会の様子
 
-{{< figure src="Player.jpg" width="65%" title="参加選手 一同">}}
+{{<figure src="Player.jpg" width="65%" title="参加選手 一同">}}
 
-{{< figure src="Everyone.jpg" width="65%" title="参加選手、観戦者＆運営 一同">}}
+{{<figure src="Everyone.jpg" width="65%" title="参加選手・観戦者・運営 一同">}}
 
-{{< figure src="Exchange-meeting.jpg" width="65%" title="大会終了後、参加選手による技術発表＆交流会">}}
+{{<figure src="Exchange-meeting.jpg" width="65%" title="大会終了後、参加選手による技術発表＆交流会">}}
 
 ## 総括
 
@@ -93,5 +103,7 @@ card_image =  "img/card/history/2019/index.png"
 同志社大学ハローホールにおきまして、照明/音響の調整、サポートをしてくださいました株式会社同志社エンタープライズをはじめ、フィールドの白線テープを無償提供していただいた株式会社朱雀技研様、運営を手伝っていただいた各大学の皆様、大会を盛り上げてくださった観客の皆様に心から感謝申し上げます。
 
 今年度の教訓を踏まえ、来年はさらに有意義な大会にできるよう運営一同精進していきたいと思います。
+
 ## スポンサー
+
 株式会社朱雀技研様
