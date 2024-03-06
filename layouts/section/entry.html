@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body>
+
+  <div id="all">
+
+    <header>
+
+      {{ partial "top.html" . }}
+
+      {{ partial "nav.html" . }}
+
+    </header>
+
+    {{ partial "breadcrumbs.html" . }}
+
+
+    <div id="content">
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-md-12">
+            <div>
+              {{ .Content }}
+              {{ range .Site.Data.team }}
+              <div class="team">
+                <h3>{{ .school }} / {{ .team }}</h3>
+              </div>
+              <ul class="customers team-img">
+                <li class="item" title="{{ .team }}">
+                  <img src="{{ .robot }}" alt="{{ .team }}" class="img-responsive" />
+                </li>
+                <li class="item" title="{{ .team }}">
+                  <img src="{{ .member }}" alt="{{ .team }}" class="img-responsive" />
+                </li>
+              </ul>
+              <p class="team-ardor">{{.comment}}</p>
+              {{end}}
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /#content -->
+
+
+      {{ partial "footer.html" . }}
+
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+</body>
+
+</html>
