@@ -58,7 +58,7 @@ card_image =  "img/card/history/2023/index.png"
 
 「新学期応援セール📢」は、関東大会にてその能力を遺憾なく発揮し、見事優勝を勝ち取りました。
 
-{{<tweet user="kitrobocon" id="1636696104929746945">}}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">改めまして、関東春ロボコン優勝致しました。言うことは何もありません。素晴らしい！ <a href="https://t.co/ZtTcv3xMWg">pic.twitter.com/ZtTcv3xMWg</a></p>&mdash; 京都工芸繊維大学 ForteFibre (@kitrobocon) <a href="https://twitter.com/kitrobocon/status/1636696104929746945?ref_src=twsrc%5Etfw">March 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 春ロボゼミ2023
 協力関係にあるロボティクス勉強会運営会と技術やチーム運営の発表会である「春ロボゼミ2023」を共催しました.  
