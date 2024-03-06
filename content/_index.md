@@ -4,6 +4,28 @@ card_image =  "img/card/_index.png"
 description = "関西春ロボコン"
 keywords = ["HOME","robocon","harurobo"]
 +++
+### 大会概要
+
+{{<mdtable class="simple-table">}}
+
+|   概要   |                                                           |
+| :------: | :-------------------------------------------------------: |
+| 大会名称 |                    関西春ロボコン2024                     |
+| 競技課題 |                         雛壇作り¹                         |
+| 開催場所 | 道の駅ガレリアかめおか コンベンションホール(京都府亀岡市) |
+| 開催日程 |                      2024年3月7~8日                       |
+|   運営   |                 関西春ロボコン運営委員会                  |
+
+{{</mdtable>}}
+
+1) 関東春ロボコン2024大会ルールをCCライセンスにて開催
+
+<!-- 大会当日スケジュール 58 KB -->
+<!-- [Download](https://drive.google.com/file/d/1cy_Gx91IZ4MvDmu3OjSM8rm0-bowZjih/view) -->
+
+### Youtube 配信
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/iYpRkmhdnL0?si=OEdnAkSZJ4UI3pw_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 対戦カード
 
@@ -47,27 +69,6 @@ NHKロボコンに近い環境で経験を積むことにより、ロボット�
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 	allowfullscreen
 ></iframe>
-
-<br>
-
-### 大会概要
-
-{{<mdtable class="simple-table">}}
-
-| 概要 |  |
-| :---: | :---: |
-| 大会名称 | 関西春ロボコン2024 |
-| 競技課題 | 雛壇作り¹ |
-| 開催場所 | 道の駅ガレリアかめおか コンベンションホール(京都府亀岡市) |
-| 開催日程 | 2024年3月7~8日 |
-| 運営 | 関西春ロボコン運営委員会 |
-
-{{</mdtable>}}
-
-1) 関東春ロボコン2024大会ルールをCCライセンスにて開催
-
-<!-- 大会当日スケジュール 58 KB -->
-<!-- [Download](https://drive.google.com/file/d/1cy_Gx91IZ4MvDmu3OjSM8rm0-bowZjih/view) -->
 
 <br>
 
