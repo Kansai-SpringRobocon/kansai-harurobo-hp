@@ -25,7 +25,7 @@ keywords = ["HOME","robocon","harurobo"]
 
 ### Youtube 配信
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/iYpRkmhdnL0?si=OEdnAkSZJ4UI3pw_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/watch?v=D8Yeqn02J_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 対戦カード
 
